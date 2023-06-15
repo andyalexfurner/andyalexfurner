@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a Computer Application Student From India, passionate about and currently studying Data Science.
 <!--
 **andyalexfurner/andyalexfurner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
